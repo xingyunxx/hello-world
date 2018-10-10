@@ -1,0 +1,6 @@
+//this is the test file
+int x,y;
+int main()
+{
+  print(x+y);
+}
